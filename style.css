@@ -1,0 +1,176 @@
+*{
+	margin:0;
+	padding:0;
+}
+#first{
+	
+	
+}
+.container{
+  max-width:1170px;
+  margin:0 auto; 
+  padding:70px;	
+	overflow:hidden;
+	
+}
+.full-width{
+ margin:50px;	
+	
+}
+.logo{
+	float:left;
+	width:30%
+}
+.menu{
+	
+}
+.menu ul{
+ margin-top:50px;	
+ float:left;	
+ width:60%;	
+
+
+}
+.menu ul il{
+		list-style:none;
+	float:left;
+   padding:30px;
+   font-size:40px;
+	
+}
+.menu ul il a{
+	text-decoration:none;
+	padding:10px 2px;
+	color:#FFFFFF;
+	background:#C135D8
+}
+.menu ul il a:hover{
+	color:#FFFFFF;
+	background:#000000;
+	
+}
+#second{
+  background:url(m/swddfcrd.jpg) no-repeat;	
+	background-size:cover;
+	color:#4611FF;
+    background-attachment:fixed;
+}
+.content{
+  text-align:center;	
+	padding:100px 0;
+  ion-top color:#FCFFFA;
+}
+.content h2{
+  font-size:60px;	
+	
+}
+.content p{
+	 font-size:25px;
+     
+}
+#trird{
+	
+	
+}
+.section-top{
+	 text-align:center;
+	 padding:25px 0;
+     
+}
+.section-top h2{
+	font-size:50px;
+	 color:#ADFF4B;
+	text-shadow:2px 1px 2px black;
+}
+.section-top p{
+ 	font-size:40px;
+	
+}
+.trird-content{
+	
+	
+}
+.content-content{
+	max-width:50%;
+	float:left;
+	text-align:center;
+	
+}
+#fourt{
+	 background:url(m/sky-690293__340.jpg) no-repeat;
+	 margin-top:400px;
+	 background-size:cover;
+	   background-attachment:fixed;
+}
+.fourt-content{
+	
+	
+}
+.contentt{
+	
+	
+}
+.contentt h2{
+	text-align:center;
+	font-size:60px;
+	color:#FFFFFF
+}
+.contentt p{
+	text-align:center;
+	font-size:40px;
+	color:#FFF61B;
+	
+}
+#five{
+	
+}
+.five-content{
+	
+}
+.contenttt{
+	text-align:center;
+	font-size:40px;
+	color:#8AD82D;
+}
+.contenttt h1{
+	color:#8AD82D;
+}
+.contenttt p{
+	font-size:50px;
+	color:#000;
+	text-shadow:2px 1px 2px black;
+}
+.contentty{
+	max-width:50%;
+	float:left;
+	margin-top:30px;
+	padding:70px 230px;
+}
+
+#contact-us{
+  
+}
+.contact-top{
+	color:#617D52;
+	text-align:center;
+}
+.contact-top h2{
+	font-size:60px;
+}
+.contact-top p{
+  font-size:30px;
+}
+.contact-one{
+ padding:100px 0pc;
+ text-align:center;
+}
+.contact-one i{}
+.contact-one h2{
+	font-size:50px;
+}
+.contact-one p{
+	padding:20px 0px;
+	font-size:30px;
+}
+	
+	

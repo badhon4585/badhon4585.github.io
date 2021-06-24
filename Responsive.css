@@ -1,0 +1,36 @@
+@media screen and (max-width:1024px){
+	
+	  .menu ul{
+		  clear:left
+	  }
+	  
+		  
+		  
+	  
+
+
+}
+@media screen and (max-width:1152px){
+	
+	  .menu ul{
+		  clear:left
+	  }
+}
+@media screen and (max-width:640px){
+	    .menu ul il {
+			text-align:center
+			
+			
+		}
+	
+	  .contentt h2{
+		 
+		  
+	  }
+	
+	.contentty{
+		
+		
+		text-align:center;
+	}
+}

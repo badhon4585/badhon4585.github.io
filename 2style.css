@@ -1,0 +1,93 @@
+*{
+	margin:0;
+	padding:0;
+}
+#fast{
+	
+}
+.cantainer{
+	max-width:1520px;
+	 margin:0 auto; 
+  	
+	overflow:hidden;
+}
+.h{
+	padding-bottom:30px;
+	padding-top:30px;
+}
+.h h1{
+	 
+	 text-align:center;
+	font-size:40px;
+	color:#FFFFFF;
+	background:#000000;
+}
+.full-width{
+	 
+}
+.logo{
+	
+}
+#second{
+	
+}
+.content{
+	text-align:center;	
+	padding:50px 30px;
+	font-size:50px;
+}	
+.content h1{
+	font-size:60px;
+}
+.content p{
+	 font-size:20px;
+}
+.content-two{
+	
+}
+.content-two h2{
+	padding:30px;
+	text-align:center;
+	 font-size:50px;
+}
+.content-two p{
+	text-align:center;
+	 font-size:20px;
+}
+
+#trird{
+	margin-left:250px;
+}
+.trird-content{
+	font-size:40px;
+	text-align:center;
+}
+.trird-content table th{
+	border-collapse:collapse;
+	border:1px solid black;
+}
+.trird-content table caption{
+	padding:30px;
+	font-size:40px;
+}
+.trird-content table td{
+	
+	border:1px solid black;
+}
+
+#four{
+	
+}
+.four-content{
+	
+}
+.Headings{
+	padding:40px 20px;
+}
+.Headings h1{
+	text-align:center;
+	padding:40px;
+	color:#FFFFFF;
+	background:#000000;
+	font-size:45px;
+}
